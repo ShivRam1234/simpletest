@@ -5,7 +5,7 @@ django-webmaster-verification==0.3.0
 psycopg2==2.7.1
 gunicorn==19.7.1
 django-storages==1.6.5
-Django==1.11.1
+Django==1.11.23
 boto3==1.4.8
 boto==2.48.0
 python-decouple==3.1
